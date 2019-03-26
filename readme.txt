@@ -1,4 +1,1 @@
-123456
-
-
-zhoumo
+Creating a new branch is quick.
